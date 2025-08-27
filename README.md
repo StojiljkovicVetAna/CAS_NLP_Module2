@@ -1,0 +1,1 @@
+This repository contains the work for the Module 2 of the CAS in NLP 2025-2026. For the project I will train a model to classify abstracts into categories such as experimental study, review article, etc..
